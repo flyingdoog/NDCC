@@ -1,6 +1,6 @@
 # NDCC
 
-This is a C++ implementation of the paper: A Collective Approach to Scholar Name Disambiguation
+This is a C++ implementation of the paper: <b>A Collective Approach to Scholar Name Disambiguation</b>
 
 <i> TKDE, 2020 </i>
 
