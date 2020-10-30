@@ -6,7 +6,7 @@ This is a C++ implementation of the paper: <b>A Collective Approach to Scholar N
 
 # Demo
 
-[Disambiguation Results on AMiner] (http://personal.psu.edu/dul262/NDCC/ndcc_demo.html)
+[Disambiguation Results on AMiner] (http://71.207.10.55/ndcc_demo.html)
 
 ## References
 
