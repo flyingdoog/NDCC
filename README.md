@@ -4,10 +4,6 @@ This is a C++ implementation of the paper: <b>A Collective Approach to Scholar N
 
 <i> TKDE, 2020 </i>
 
-# Demo
-
-[Disambiguation Results on AMiner] (http://71.207.10.55/ndcc_demo.html)
-
 ## References
 
 ```
